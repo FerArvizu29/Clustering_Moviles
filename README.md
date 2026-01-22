@@ -46,7 +46,7 @@ El conjunto de datos se obtuvo de Kaggle del siguiente enlace: https://www.kaggl
 ## Análisis de los clusters y dashboard.
 Para identificar los clusters, se utilizaron estadísticas descriptivas y se presentaron en un dashboard hecho con Tableau.
 
-<img width="1282" height="780" alt="image" src="https://github.com/user-attachments/assets/a5565a6f-ba55-4237-bf9f-8798d5ba8ad7" />
+<img width="1282" height="782" alt="image" src="https://github.com/user-attachments/assets/8c3fe69c-18e1-4ae8-9205-c993240b3443" />
 
 Puede consultarse públicamente desde: https://public.tableau.com/views/Dashboard_Smartphones/Dashboard1?:language=es-ES&:sid=&:redirect=auth&publish=yes&showOnboarding=true&:display_count=n&:origin=viz_share_link
 
