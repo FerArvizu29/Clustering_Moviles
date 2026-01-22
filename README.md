@@ -35,8 +35,8 @@ El conjunto de datos se obtuvo de Kaggle del siguiente enlace: https://www.kaggl
 
 <img width="581" height="492" alt="image" src="https://github.com/user-attachments/assets/e57a4d0f-b326-4c26-b12e-6013fa1bab16" />
 
-- Se seleccionaron características relevantes para teléfonos y se realizó un **segundo clustering** que permitió segmentarlos en tres gamas: baja, media y alta.
-- Variables principales para clustering: `RAM`, `ProcessorBench`, `Battery Capacity`, `Front Camera`, `Back Camera`, `Mobile Weight`.  
+- Se seleccionaron características relevantes para teléfonos y se realizó un **segundo clustering** que permitió segmentarlos en tres gamas: baja, media y alta; las variables seleccionadas para clustering fueron: `RAM`, `ProcessorBench`, `Battery Capacity`, `Front Camera`, `Back Camera`, `Mobile Weight`.
+
 - Se utilizaron tres algoritmos diferentes de clustering: K-Means, Agglomerative Hierarchical y Gaussian Mixture Models. Asimismo, se realizó como preprocesamiento el escalamiento de variables con MinMax y con estandarización. Se evaluó el clustering con métricas como DBI y Silhouette para determinar el clustering más adecuado.
 
 <img width="604" height="492" alt="image" src="https://github.com/user-attachments/assets/4be9bdcf-7e32-4cdc-adf3-dc63ef780e4b" />
